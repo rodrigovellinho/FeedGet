@@ -6,10 +6,10 @@
 ## :rocket:
 
 <p align="center">
-  <img src="" alt="Feedget">
+  <img src="https://github.com/rodrigovellinho/Feedget/blob/main/public/cover1.jpg?raw=true" alt="Feedget">
 </p>
 <p align="center">
-  <img src="" alt="Feedget">
+  <img src="https://github.com/rodrigovellinho/Feedget/blob/main/public/cover2.jpg?raw=true" alt="Feedget">
 </p>
 
 A aplicação tem como objetivo principal a criação de componentes de feedback reutilizáveis. Funcionalidades:
